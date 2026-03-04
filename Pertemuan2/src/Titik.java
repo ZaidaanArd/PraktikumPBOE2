@@ -1,6 +1,6 @@
 /* Nama File        :   Titik.java
  * Deskripsi        :   berisi atribut dan method dalam class Titik
- * Pembuat          :   Muhamad Kemal Faza - 24060124120013
+ * Pembuat          :   Muhammad Zaidaan Ardiyansyah - 24060124140200
  * Tanggal          :   19/02/2026
  */
 
